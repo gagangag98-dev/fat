@@ -1,5 +1,2 @@
 oirptk
-rtbm
-df
-f
-d
+rtbmfdb
